@@ -302,3 +302,8 @@ movies_df = ratings_file
 ```
 
 # Results
+Functions ran successfully, and the tables were loaded onto pgAdmin, verified by using the count() function in pgAdmin. See Figures 1 and 2.
+Figure 1<br>
+![](https://github.com/alexdallman1029/Movies_ETL/blob/main/Resources/movies_query.png)<br>
+Figure 2<br>
+![](https://github.com/alexdallman1029/Movies_ETL/blob/main/Resources/ratings_query.png)
